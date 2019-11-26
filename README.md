@@ -56,8 +56,13 @@ Install CUDNN 7.4:
     sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
     sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
 
+open your .bashrc file with nano
     
+    sudo nano ~/.bashrc
+go to the last line and add the following lines (this will set your PATH variable)
 
+    export PATH=/usr/local/cuda-10.0/bin${PATH:+:$PATH}}
+    export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
 
    
