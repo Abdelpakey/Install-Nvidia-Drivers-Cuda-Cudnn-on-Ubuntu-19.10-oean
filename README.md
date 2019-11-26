@@ -36,9 +36,11 @@ Fell free to login to http://developer.download.nvidia.com/compute/cuda/repos/ t
     
 Here  we select ubuntu 18.04 because it has cuda 10.0    
 Update the system again:
+
     sudo apt-get update
 
 Install CUDA 10.0:
+
     sudo apt install cuda-10-0
 
 Install CUDNN 7.4:
