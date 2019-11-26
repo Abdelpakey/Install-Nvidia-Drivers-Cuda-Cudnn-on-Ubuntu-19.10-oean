@@ -42,6 +42,7 @@ Install CUDA 10.0:
     sudo apt install cuda-10-0
 
 Install CUDNN 7.4:
+
     go to https://developer.nvidia.com/cudnn
     Select CUDNN 7.4 for CUDA 10.0
     download the cuDNN v7.4 Library for Linux (tar file)
