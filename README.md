@@ -1,4 +1,4 @@
-# Install-Nvidia-Drivers-Cuda-Cudnn-on-Ubuntu-19.10-oean
+# Install-Nvidia-Drivers-Cuda-Cudnn-on-Ubuntu-19.10-oean-VOT
 
 Go to https://www.nvidia.com/Download/driverResults.aspx/154997/en-us figure which version of Nvidia drivers shoud you use for your GPU in my case 440.36.
 
