@@ -34,6 +34,8 @@ Fell free to login to http://developer.download.nvidia.com/compute/cuda/repos/ t
 
     sudo bash -c 'echo "deb http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1804/x86_64 /" >      /etc/apt/sources.list.d/cuda_learn.list'
     
+   
+    
 Here  we select ubuntu 18.04 because it has cuda 10.0    
 Update the system again:
 
@@ -66,4 +68,4 @@ go to the last line and add the following lines (this will set your PATH variabl
 
 
    
-
+For integrating VOT-toolkit to ubuntu 19.10 I have fixed vot.py file and uplodead [here] (https://github.com/Abdelpakey/vot.py/blob/master/vot.py)
