@@ -68,4 +68,4 @@ go to the last line and add the following lines (this will set your PATH variabl
 
 
    
-For integrating VOT-toolkit to ubuntu 19.10 I have fixed vot.py file and uplodead [here](https://github.com/Abdelpakey/vot.py/blob/master/vot.py).
+For integrating VOT-toolkit to ubuntu 19.10 : 
